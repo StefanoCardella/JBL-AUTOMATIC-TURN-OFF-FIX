@@ -11,3 +11,5 @@ This script generates a brief sound every 9 minutes at a frequency so low that i
 Additionally, it's possible to configure the script to run each time your computer starts up, eliminating the need for manual execution upon each boot or system restart.
 
 For detailed instructions, please refer to the "README.txt" file.
+
+NB: If, when you download the file, Microsoft Defender detects it as a threat, don't worry; it's simply flagging the Python script as potentially harmful.
